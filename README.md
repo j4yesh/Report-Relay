@@ -1,5 +1,7 @@
 # Report-Relay
 
+Live Link: https://report-relay.vercel.app/
+
 **Report-Relay** is a report-generating platform built using the **MERN stack** to track student performance and send reports to their parents.
 
 ## 🌟 How Report-Relay is Built
@@ -17,7 +19,3 @@
 - **Test Account**: 
   - Username: `one@gmail.com`
   - Password: `one@123`
-
-## 📎 Links
-
-- **Feedback**: Send feedback to [chinmaymahajan999@gmail.com]
